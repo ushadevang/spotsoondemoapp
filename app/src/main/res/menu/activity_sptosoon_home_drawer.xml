@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/about_us"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_image"
+            android:icon="@drawable/image"
+            android:title="Images" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/video"
+            android:title="Videos" />
+        <item
+            android:id="@+id/nav_milestone"
+            android:icon="@drawable/milestone"
+            android:title="Milestone" />
+
+    </group>
+</menu>
