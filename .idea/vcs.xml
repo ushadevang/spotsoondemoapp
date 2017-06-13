@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="C:\Users\Employee\Downloads\Spotsoon\spotsoon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spotsoon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spotsoon/Spotsoon" vcs="Git" />
+    <mapping directory="C:\Users\Employee\Desktop\repo\Spotsoon\spotsoondemoapp" vcs="Git" />
   </component>
 </project>
